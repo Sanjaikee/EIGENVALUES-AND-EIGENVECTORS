@@ -16,7 +16,7 @@ End the program.
 ## Program:
 ```
 #Developed by: sanjai s
-#RegisterNumber:
+#RegisterNumber: 23003393
 import numpy as np
 m=([[2,2],[1,3]])
 w,v=np.linalg.eig(a)
@@ -24,7 +24,8 @@ print(f"Eigen values are",w,"and Eigen Vectors are",v)
 ```
 
 ## Output:
-![WhatsApp Image 2023-12-15 at 08 40 49_5c9ebbf4](https://github.com/Sanjaikee/EIGENVALUES-AND-EIGENVECTORS/assets/150231888/b4e84ecb-b756-4ae9-a091-9c00a730b3b8)
+![image](https://github.com/Sanjaikee/EIGENVALUES-AND-EIGENVECTORS/assets/150231888/d84ea3e3-fcf6-4008-be01-bff5fb474bbe)
+
 
 
 ## Result:
